@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 # The StockTCG Manifesto
 ## Part 1: Why Most MTG and TCG Online Marketplaces Are Terrible and How to Succeed
 
