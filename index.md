@@ -34,7 +34,7 @@ By taking these lessons learned from past competitors and analyzing the hundreds
 Stay tuned for part 2 where we will discuss the pros and cons of other secondary marketplaces across different markets and how they compare to the current card marketplace offerings.
 
 Sources:
-https://medium.com/@peeroke/shutting-down-mage-market-2fc7006946b4
-https://speedmtg.azurewebsites.net/Closing
-https://www.hipstersofthecoast.com/2020/03/mage-market-to-shut-down/
+- https://medium.com/@peeroke/shutting-down-mage-market-2fc7006946b4
+- https://speedmtg.azurewebsites.net/Closing
+- https://www.hipstersofthecoast.com/2020/03/mage-market-to-shut-down/
 
