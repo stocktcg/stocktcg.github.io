@@ -1,0 +1,40 @@
+# The StockTCG Manifesto
+## Part 1: Why Most MTG and TCG Online Marketplaces Are Terrible and How to Succeed
+
+This past year has been possibly the hardest times fallen across the world, the darkness of the situation can easily obfuscate the mind if one’s will is not strong enough. The uncertainty of when this will end can make it impossible to think and plan ahead or exist anywhere outside of the current moment. We all must remain steadfast, strong willed, and certain of ourselves in order to overcome the adversity in front of us. 
+
+During these moments we are facing, decision making of any kind can seem impossible. What is right and wrong cannot be validated either way until the dust settles and we can look back and assess the situation, but the dust is not settling and it continues to not settle; it even continues to get kicked up. There are thousands of businesses that were open and thriving just a few months ago with great projections in place for the future that are now gone. 
+
+One of these industries effectively shut down until further notice is trading card and tabletop games and the stores and community hubs that drive and support these hobbies that we have come to know as local game stoers (LGS). The businesses that run on already exceedingly thin margins nurture these communities and rely on the community members to sustain themselves in many places across the world do not have the ability to support their communities any longer. Possibly the community hardest hit within this industry is Magic: The Gathering (MTG). 
+
+A tabletop card game that has sparked perennial conventions and tournaments on a local, city, state and national-level across the globe which has seemingly been increasing in popularity since its inception almost 30 years ago has been completely halted in its tracks; luckily, there are official digital versions of the game, but as many Magic players will tell you it is just not the same and the collcetibly and long term value remains in the paper product. 
+
+What are the LGSs to do? There are online marketplaces tailored towards trading cards where stores can put up their cards and products for sale, but these sites take fees out of their profits which stores would normally take out themselves to pay for the brick and mortar side of their business leaving slim to nothing left in a competitive marketplace. Once the stores leave the online marketplaces what happens to the marketplaces themselves? 
+
+As a result of the COVID-19 epidemic and the uncertainty of the economy, the MTG and TCG online marketplaces have majorly affected with a couple  online marketplaces shutting their sites down for good; those being Mage Market and SpeedMTG. These services for whatever reason did not or were not able to pivot to a viable modeland decided to close their doors for good. W
+
+Mage Market was an online marketplace for Magic: The Gathering products backed by YCombinator and Twitch. Mage Market’s largest selling point was they could be trusted to authenticate every item that was transacted through their platform. They also offered a bid-ask system where buyers and sellers could instantly complete a transaction and ship the product due to their centralized warehouse. 
+
+SpeedMTG also worked on a similar premise with a centralized location operated by the company that allowed cards to be held and sold higher than they were bought. The marketplace allowed for cryptocurrency payments and at one point offered futures and options contracts against individual cards. Due to lack of overhead and funds, the marketplace was forced to close. It is worth noting that SpeedMTG planned to shut down before the pandemic. 
+
+Even the big players in the space have been negatively affected with retailers such as ChannelFireball and Card Kingdom closing down their warehouse operations slowing down direct sale of products which in turn should benefit the LGSs.
+
+For a card game that requires 60-100 cards per deck to play the game, orders could be anywhere from 1-100+ cards across 1-100+ sellers to one buyer. Authenticating, and not to mention grading, would require a substantial workforce to scale and in the end is a dead giveaway at the lack of scalability of this company’s model; there are entire companies dedicated to grading and authenticating cards. 
+
+The creator and owner of MTG, Wizards of the Coast (WotC), releases new products frequently and as popularity increases the frequency of product releases seems to correlate. These products contain fresh new cards as well as reprints of sought after cards from way-back-when. Cards can range anywhere from a single cent to thousands of dollars. As there is with every other collectible market there is no shortage of fakes and good fakes at that. Typically, the older and more rare cards were only ever replicated, but now the replica manufacturers have begun to get more sophisticated and even brand new cards are being replicated and injected by the thousands into the secondary market. Even with a dedicated team of professional authenticators, fakes pass through the cracks and many fake cards are sold on legitimate marketplaces everyday. 
+
+What is the solution? 
+
+- **Inform the buyers and sellers**. Instead of dedicating a team to authenticate thousands of cards a day, disseminate the knowledge of how to discern real product from fake product throughout the community to battle the influx of inauthentic cards being manufactured and empower buyers and sellers to make informed decisions around their card purchases. For every fake card printed, there is a wealth of knowledge already detailing the differences and how to determine authentic vs inauthentic. This allows for the middleman to be hands-off in the authenticity and grading process, creates an informed and smarter market, minimize risk and create a multi-tiered support system that in theory should create a more fair and balanced disput system.
+- **Direct seller-to-buyer transactions**. By limiting the marketplace place provider to basically a tech company by removing the logistic and shipping aspects of the business model, the marketplace can be much for free to adapt to the changing landscape of the market as disruptions occur. At most, the marketplace could provide shipping logistics to possibly allow for purchase tracking to be integrated into the service for dynamic response to the state of a given shipping label; more on this later, check out our upcoming dev talks.
+- **Use third-party payment processors that guarantee payment protection**. By constantly informing the community on identifying authenticity, the majority of risk will be mitigated. Using the marketplace customer support and proper payment processors will allow any further disputes of authenticity to be settled. Only at this point, if necessary, would the marketplace support have to step in if at all to act as a neutral third-party to assist the payment processor in resolving the funds to the correct party.
+
+By taking these lessons learned from past competitors and analyzing the hundreds of other resale marketplaces to determine what makes them so great and how we can integrate those great features that their users love, we at StockTCG plan to build the greatest online platform for buying and selling your prized pieces of paper. Essentially, we see the best way to go about this is by removing the bulk of the overhead that similar models have, leverage industry-leading third-party services to ensure transaction integrity between buyer and seller and empower the community with the knowledge and ability to confidently buy and sell authentic product.
+
+Stay tuned for part 2 where we will discuss the pros and cons of other secondary marketplaces across different markets and how they compare to the current card marketplace offerings.
+
+Sources:
+https://medium.com/@peeroke/shutting-down-mage-market-2fc7006946b4
+https://speedmtg.azurewebsites.net/Closing
+https://www.hipstersofthecoast.com/2020/03/mage-market-to-shut-down/
+
